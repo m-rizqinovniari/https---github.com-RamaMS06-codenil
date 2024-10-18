@@ -1,0 +1,5 @@
+name: codenil
+
+packages:
+  - apps/**
+  - packages/**

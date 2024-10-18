@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/codenil_design_system/melos_codenil_design_system.iml" filepath="$PROJECT_DIR$/packages/codenil_design_system/melos_codenil_design_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/travel_muslim/melos_travel_muslim.iml" filepath="$PROJECT_DIR$/apps/travel_muslim/melos_travel_muslim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_codenil.iml" filepath="$PROJECT_DIR$/melos_codenil.iml" />
+    </modules>
+  </component>
+</project>
